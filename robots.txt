@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://flashinfo.pages.dev/sitemap.xml
